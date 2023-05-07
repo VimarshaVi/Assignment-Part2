@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-crud-api-project",
+  "version": "1.0.0",
+  "description": "Answer for 2nd question",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "nodemon server.js",
+    "start": "node server.js"
+  },
+  "author": "Vimarsha Vithanage",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.2"
+  }
+}
